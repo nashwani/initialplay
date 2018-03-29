@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 from areasearch import AreaSearch
 from setupCfg import SetupCfg
 

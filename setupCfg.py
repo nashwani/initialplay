@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import configparser
 import os
 
